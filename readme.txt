@@ -6,4 +6,4 @@ Git tracks changes  of files.
 
 
 
-Git branch
+Git branch should be merged!
